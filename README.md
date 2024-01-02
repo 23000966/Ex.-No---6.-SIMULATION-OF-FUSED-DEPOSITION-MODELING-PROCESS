@@ -28,8 +28,8 @@
 ![image](https://github.com/23000966/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/153983364/eefed436-9f56-41cb-ba37-f51e563ebe67)
 ![image](https://github.com/23000966/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/153983364/056d9fdf-6dad-4128-b38d-c075ad93b496)
 
-### Name:SANTHOSH KUMAR R
-### Register Number: 23000966
+### Name: DILIP SANJAY M
+### Register Number: 23014243
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
